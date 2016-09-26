@@ -1,3 +1,3 @@
 # angular2
 startup
-for a2
+for Angular2 with Routing updated
